@@ -33,14 +33,8 @@ yarn start
 
 
 
+
 - #### Tecnologias  utilizadas no desenvolvimento do App <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">:
 
-- [x]<a href="https://pt-br.reactjs.org/">React</a>
-- [x]<a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">Javascript</a>
-- [x]<a href="https://material-ui.com/pt/">Material UI </a>
-- [x]<a href="https://jerairrest.github.io/react-chartjs-2/" >React Chartjs-2 </a>
-- [x]<a href="https://pt-br.reactjs.org/docs/context.html">ContextAPI</a>
-- [x]<a href="https://pt-br.reactjs.org/docs/context.html#api" >Autenticação com Context API </a>
-- [x]<a href="https://developer.android.com/studio/?gclid=CjwKCAjw97P5BRBQEiwAGflV6dYnhlqiMNkVdRGTdd40Y83uvbrmV_zxsv85fF-30-oclojc_LXBjRoCkU0QAvD_BwE&gclsrc=aw.ds" >Android Studio</a>
-
+- [x] JavaScript
 
