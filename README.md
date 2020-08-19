@@ -29,12 +29,7 @@ yarn start
 ```
 
 
-
-
-
-
-
 - #### Tecnologias  utilizadas no desenvolvimento do App <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">:
 
 - [x] JavaScript
-
+- [x] Material UI
