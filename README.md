@@ -1,68 +1,46 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### <img  src="https://media.tenor.com/images/fdfe39549e576f6dc25648bac9bc05b6/tenor.gif" width="500px" heigh="70px"/>
 
-In the project directory, you can run:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello esse é o
+# Corona App <img src="https://media.tenor.com/images/d01dd81eda6ae15df61fa7d32e848269/tenor.gif" width="30px">
+- Uma aplicação web que  temm  por  objeto trazer os  dados  da  covid-19 
 
-### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- ### Para Fazer a utilização do app para testes basta seguir os passos abaixo <img src="https://media.tenor.com/images/535e2e66b423b04c7315f0428ca44952/tenor.gif" width="30px">:
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+- Clone este projeto para seu computador:
 
-### `yarn test`
+```bash
+https://github.com/tonymatheus/CoronaApp.git
+```
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Com o terminal aberto na pasta do projeto, execute os comandos Abaixo:
 
-### `yarn build`
+#### Digite primeiro esse comando baixar as dependências do projeto:
+```bash
+npm install ou somente yarn
+```
+- Após isso digite:
+```bash
+yarn start 
+```
+### Após isso a Apliicação abrirá no seu Browser
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- #### Tecnologias  utilizadas no desenvolvimento do App <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- [x]<a href="https://pt-br.reactjs.org/">React</a>
+- [x]<a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">Javascript</a>
+- [x]<a href="https://material-ui.com/pt/">Material UI </a>
+- [x]<a href="https://jerairrest.github.io/react-chartjs-2/" >React Chartjs-2 </a>
+- [x]<a href="https://pt-br.reactjs.org/docs/context.html">ContextAPI</a>
+- [x]<a href="https://pt-br.reactjs.org/docs/context.html#api" >Autenticação com Context API </a>
+- [x]<a href="https://developer.android.com/studio/?gclid=CjwKCAjw97P5BRBQEiwAGflV6dYnhlqiMNkVdRGTdd40Y83uvbrmV_zxsv85fF-30-oclojc_LXBjRoCkU0QAvD_BwE&gclsrc=aw.ds" >Android Studio</a>
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
