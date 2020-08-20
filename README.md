@@ -26,10 +26,11 @@ yarn start
 ```
 ### Após isso a Apliicação abrirá no seu Browser
 
-```
+
 
 
 - #### Tecnologias  utilizadas no desenvolvimento do App <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">:
 
-- [x] JavaScript
-- [x] Material UI
+- [x]  <a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">JavaScript</a>
+- [x]  <a href="https://material-ui.com/pt/" >Material UI</a>
+- [x]  <a href="https://github.com/jerairrest/react-chartjs-2">React-Chartjs-2 </a>
