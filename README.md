@@ -34,3 +34,6 @@ yarn start
 - [x]  <a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript">JavaScript</a>
 - [x]  <a href="https://material-ui.com/pt/" >Material UI</a>
 - [x]  <a href="https://github.com/jerairrest/react-chartjs-2">React-Chartjs-2 </a>
+- [x]  <a href="https://pt-br.reactjs.org/docs/hooks-intro.html">React-Hooks</a>  
+- [x]  <a href="https://www.npmjs.com/package/react-countup">React-Countup</a>
+- [x]  <a href="https://yarnpkg.com/">Gerenciador de pacotes Yarn</a>
